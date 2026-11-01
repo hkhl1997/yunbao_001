@@ -6,9 +6,9 @@
 
 **:arrow_double_down: [iOS 海外商店版本](https://apps.apple.com/hk/app/%E4%BA%91%E5%AE%9D%E5%8A%A0%E9%80%9F/id6502483903?platform=iphone)**
 
-**:arrow_double_down: [Android 版本.apk](https://d.xtunnel.link/download?device=android)**
+**:arrow_double_down: [Android 版本.apk](https://www.ybjsq.net)**
 
-**:arrow_double_down: [Windows 版本.exe](https://d.xtunnel.link/download?device=windows)**
+**:arrow_double_down: [Windows 版本.exe](https://www.ybjsq.net)**
 
 **:arrow_double_down: [macOS 版本](https://www.ybjsq.net/ios.html)**
 
